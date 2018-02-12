@@ -27,7 +27,7 @@ public class Main {
 		}
 		}
 	
-	public static boolean IsPrime (int num) {
+	public static boolean IsPrime (int num) { //寻找质数函数
 		if (num==2) return true;
 		if (num>2 && num%2!=0) 
 		{
