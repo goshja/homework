@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { //函数主入口
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
